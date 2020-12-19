@@ -16,7 +16,7 @@ export_file_name = 'export.pkl'
 
 Port = int(os.environ.get('PORT', 50000))
 
-classes = ['Covid19', 'Normal', 'pikachu']
+classes = ['Covid19', 'Normal', 'Pneumonia']
 path = Path(__file__).parent
 
 app = Starlette()
