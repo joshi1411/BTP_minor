@@ -1,5 +1,7 @@
 body {
-  background: #f3f9ff;
+  /* background: #3841a749; */
+  background-image: linear-gradient(90deg, #0b003362, #39536e65);
+
 }
 
 .main-header {
@@ -8,8 +10,8 @@ body {
   padding: 0.67rem 0 0;
   color: #fff;
   
-  background-color: #003670;
-  background-image: linear-gradient(90deg, #001933, #003670);
+  background-color: #180070;
+  background-image: linear-gradient(90deg, #0b0033, #39536e);
   margin: auto;
   padding: 10px 50px;
   text-align: center;
@@ -21,7 +23,7 @@ body {
 .circle {
   position: absolute;
   border-radius: 50%;
-  background: rgb(56, 108, 151);
+  background: rgb(18, 29, 88);
   animation: ripple 15s infinite;
   box-shadow: 0px 0px 1px 0px #508fb9;
 }
