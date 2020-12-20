@@ -1,5 +1,5 @@
 body {
-  background: #3399ff;
+  background: #f3f9ff;
 }
 
 .main-header {
@@ -21,7 +21,7 @@ body {
 .circle {
   position: absolute;
   border-radius: 50%;
-  background: white;
+  background: rgb(56, 108, 151);
   animation: ripple 15s infinite;
   box-shadow: 0px 0px 1px 0px #508fb9;
 }
